@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            color: white;
-            background-color: #0D1117;
-            font-family: Arial, sans-serif;
-        }
-        .divider {
-            border-bottom: 1px solid grey;
-            margin-top: 20px;
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
-<body>
-
     <div id="header" align="center">
         <h1>Hello, I'm [Your Name]</h1>
         <img src="[Your Image URL]" width="200" />
@@ -54,10 +36,3 @@
         <p>📧 [Your Email]</p>
         <p>💼 [LinkedIn Profile]</p>
     </div>
-
-    <footer>
-        <p>© [Current Year] - [Your Name]</p>
-    </footer>
-
-</body>
-</html>
