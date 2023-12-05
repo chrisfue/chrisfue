@@ -1,38 +1,15 @@
-    <div id="header" align="center">
-        <h1>Hello, I'm [Your Name]</h1>
-        <img src="[Your Image URL]" width="200" />
-        <p>AI & Machine Learning Enthusiast | Data Analysis and Predictions Expert</p>
-    </div>
+<h1 align="center">Hi 👋, I'm Christoph</h1>
+<h3 align="center">An AI and ML enthusiast currently enrolled in a study of Information and Communication Systems at FH Technikum Wien</h3>
 
-    <div class="divider"></div>
+- 🔭 I’m currently working on [Mobile App for data visualization](https://github.com/chrisfue/CSV_Art/tree/main)
 
-    <div id="about-me">
-        <h2>About Me</h2>
-        <p>I am deeply interested in AI, Machine Learning, Data Analysis, and Predictions. Skilled in various programming languages and frameworks, I aim to contribute significantly in these fields.</p>
-    </div>
+- 🌱 I’m currently learning **in more detail about CNN and LSTM for video classification**
 
-    <div class="divider"></div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-    <div id="skills">
-        <h2>Skills and Technologies</h2>
-        <p>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-            <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-            <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-            <br />
-            <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-            <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-            <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" alt="Keras" />
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-            <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
-        </p>
-    </div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-    <div class="divider"></div>
-
-    <div id="contact">
-        <h2>Contact Me</h2>
-        <p>If you're interested in collaborating or learning more about my work, feel free to reach out!</p>
-        <p>📧 [Your Email]</p>
-        <p>💼 [LinkedIn Profile]</p>
-    </div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisfue&show_icons=true&locale=en&layout=compact" alt="chrisfue" /></p>
